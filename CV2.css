@@ -6,14 +6,14 @@
 }
 
 :root {
-    --color-primary: #0069c0; /* Blau intens */
-    --color-secondary: #00bcd4; /* Blau aquamarí */
-    --color-accent: #ff8c00; /* Taronja brillant per accents */
-    --color-background: #f1faff; /* Blau clar de fons */
-    --color-muted: #e0f7fa; /* Blau pàl·lid */
-    --color-text: #212121; /* Gris fosc */
-    --color-light: #f5f5f5; /* Blanc brillant */
-    --color-header-text: #ffffff; /* Blanc per al text del header */
+    --color-primary: #0069c0; 
+    --color-secondary: #00bcd4; 
+    --color-accent: #ff8c00; 
+    --color-background: #f1faff; 
+    --color-muted: #e0f7fa; 
+    --color-text: #212121; 
+    --color-light: #f5f5f5; 
+    --color-header-text: #ffffff; 
 }
 
 body {
@@ -215,7 +215,7 @@ a:hover {
 }
 
 .contact-info a i {
-    margin-right: 10px; /* Espai entre la icona i el text */
+    margin-right: 10px; 
     font-size: 22px;
     color: #f5f5f5;
 }
