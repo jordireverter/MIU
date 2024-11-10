@@ -29,5 +29,5 @@ Key decisions include:
 
 ### Link to Figma Project
 
-[View the Figma Project](https://www.figma.com/file/XXXXXXXXXXXXXXXXXXXX) (This link should be replaced with your actual Figma project link once it's ready).
+[View the Figma Project](https://www.figma.com/proto/9DL5kjBmtHqdpz8NuE5i06/Untitled?node-id=3-531&starting-point-node-id=3%3A531&t=Chtjp9o3flpKc5lk-1) (This link should be replaced with your actual Figma project link once it's ready).
 
