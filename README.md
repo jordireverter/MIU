@@ -28,4 +28,4 @@ Decisions clau:
 
 ### Link al Projecte Figma
 
-[Projecte Figma](https://www.figma.com/design/9DL5kjBmtHqdpz8NuE5i06/CV-plantilla?node-id=0-1&t=6oTF7KraSEnhgNtf-1)
+[Projecte Figma](https://www.figma.com/proto/9DL5kjBmtHqdpz8NuE5i06/CV-plantilla?node-id=3-531&node-type=canvas&t=qgyyXxlKMEVesbRs-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A531)
