@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+.cv-container {
+    width: 800px;
+    margin: 20px auto;
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    gap: 20px;
+    align-items: start; /* Assegura que les columnes comencin a la mateixa alçada */
+}
+
+.header {
+    grid-column: span 2;
+    background: #003366;
+    color: white;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.profile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.profile-picture {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: #ccc;
+    margin-bottom: 10px;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 16px;
+    color: #d9d9d9;
+}
+
+.contact-info p {
+    margin: 5px 0;
+}
+
+main {
+    align-self: start;
+}
+
+aside {
+    background: #f5f5f5;
+    padding: 20px;
+    align-self: start; /* Assegura que la barra lateral comenci a la part superior */
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h3 {
+    color: #003366;
+    font-size: 18px;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #003366;
+    padding-bottom: 5px;
+}
+
+.job h4 {
+    color: #003366;
+    font-size: 16px;
+}
+
+.job p {
+    font-size: 14px;
+    color: #666;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+.languages-section, .skills-section, .interests-section {
+    margin-bottom: 20px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
